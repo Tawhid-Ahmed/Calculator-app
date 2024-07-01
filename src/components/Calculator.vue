@@ -49,7 +49,7 @@ export default {
   max-width: 100%;
   margin: 0 auto;
   padding: 20px;
-  border: 3px solid #ccc;
+  border: 3px solid #646262;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -59,7 +59,7 @@ export default {
   height: 50px;
   margin-bottom: 10px;
   margin: 10px 0;
-  border: 2px solid #b7b5b5;
+  border: 2px solid #7e7d7d;
   text-align: right;
   border-radius: 5px;
   padding: 10px;

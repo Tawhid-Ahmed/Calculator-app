@@ -51,7 +51,7 @@ export default {
   width: 300px;
   margin: 0 auto;
   padding: 20px;
-  border: 3px solid #c7c2c2;
+  border: 3px solid #646262;
   border-radius: 10px;
 }
 .settings button {
@@ -77,6 +77,7 @@ export default {
   width: 250px;
   margin: 0 auto;
   padding: 20px;
+
   text-align: left;
 }
 

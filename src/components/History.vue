@@ -33,7 +33,7 @@ export default {
   width: 300px;
   margin: 0 auto;
   padding: 20px;
-  border: 3px solid #ccc;
+  border: 3px solid #646262;
   border-radius: 10px;
 }
 
