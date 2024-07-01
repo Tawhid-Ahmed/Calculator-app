@@ -24,7 +24,7 @@ export const useCalculatorStore = defineStore('calculator', {
       this.display += value;
     },
     clearDisplay() {
-      this.display = '';
+      this.display = this.display.slice(0, -1);
     },
     resetDisplay() {
       this.display = '';
